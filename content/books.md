@@ -13,9 +13,13 @@ i'm  an avid reader when i can find the time and focus amongst all my other proj
 ## Book Notes Method/Madness
 ---
 *i write in my books. get over it.*
+
 <br><br>
+
 over it? ok cool, lets get started then. my note taking method starts with a highlighter, a pen, and the book. simple enough, right? moving on!
+
 <br><br>
+
 first things first, inside the front cover, i write my name and the date i started the book in the bottom left corner. why you may ask? if the book was meaningful and i read it again later, i like to compare my thoughts and feelings between readings and across periods in my life. i find that some things don't quite hit the same or i glean new kernels from seemingly irrelevant passages the next time through. not everything gets a second or third reading but there are some that do. i also like to see how long it took me to get through something as an indicator of enjoyment and/or difficulty.
 <br><br>
 with that out of the way, i add a title to the same page inside the front cover called **My Table of Contents** and then i get to reading. as i work through the book, if something catches my eye, causes me to stop and think or feel, or inspires thought(s), i highlight it. once i'm done with the page, i note the page number and a few words or sentences in **My Table of Contents** and continue reading. by the time i finish the book, i have a nice TOC of what i found relevant and worth further exploration. further, months after reading, i can use this to quickly find that idea or quote when i need to reference it or refresh my mind. i find that doing creating this table as i read helps me not to forget the ideas and emotions generated compared to coming back later and trying to re-experience and remember. the idea is for the book to **BECOME** the notes: not just the raw concepts, ideas, and inspiration but to become fully realized through fulfilling its purpose with a specific reader (me).
