@@ -7,7 +7,7 @@ Experienced IT professional with over 18 years of experience with MSPs and corpo
 
 <br><br>
 
-Outside of work, I spend time building open-source tech solutions, [reading](books.md), playing video games (space flight sims are my jam right now), working on my private pilot license, gardening, and tending to the chickens. Current project is building out a solar powered off-grid office/workshop space for all of my tinkering. This space will serve as not only my office for my day job but as a space to work on 3D printing, electronics, IOT devices, homelab, and integrating technology in to community building and support, gardening, farming, and homesteading. I am very passionate about leveraging technology to build and strengthen local communities, decrease wage slavery, and reducing dependence on capitalism and government systems.
+Outside of work, I spend time building open-source tech solutions, [reading](../content/books.md), playing video games (space flight sims are my jam right now), working on my private pilot license, gardening, and tending to the chickens. Current project is building out a solar powered off-grid office/workshop space for all of my tinkering. This space will serve as not only my office for my day job but as a space to work on 3D printing, electronics, IOT devices, homelab, and integrating technology in to community building and support, gardening, farming, and homesteading. I am very passionate about leveraging technology to build and strengthen local communities, decrease wage slavery, and reducing dependence on capitalism and government systems.
 
 <br><br>
 
