@@ -11,10 +11,6 @@ Outside of work, I spend time building open-source tech solutions, reading, play
 
 <br><br>
 
-Find me on <a rel="me" href="https://hachyderm.io/@wrentreeco">Mastodon</a> to connect.
-
-<br><br>
-
 # qualifications and acronymns
 * BS, Information Technology
 * Microsoft MCSE: Server Administration
