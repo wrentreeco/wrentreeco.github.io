@@ -7,14 +7,14 @@ tag:
 lastmod: 2023-03-28T16:23:06.224Z
 ---
 # Book Details
-author: Nick Offerman
-date published: 2021-10-12
-date started: 2022-12-22
-date finished: 
-length: 325
-genre: non-fiction
-isbn-13: 9781101984697
-amzn affiliate link: 
+- author: Nick Offerman
+- date published: 2021-10-12
+- date started: 2022-12-22
+- date finished: 
+- length: 325
+- genre: non-fiction
+- isbn-13: 9781101984697
+- amzn affiliate link: 
 
 # Table of Contents
  - 40: stopping and enjoying silence, nature, unplugging, immersed in surroundings
