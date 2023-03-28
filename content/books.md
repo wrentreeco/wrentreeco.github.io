@@ -48,8 +48,12 @@ thats it. i know it adds overhead to reading but i'm busy and have limited time 
 
 
 ### To Read
-- [Hacking Capitalism]({{< ref "book/hacking capitalism" >}} "Hacking Capitalism")
-- 
+- [Hacking Capitalism]({{< ref "book/Hacking Capitalism" >}} "Hacking Capitalism")
+- [Atomic Habits]({{< ref "book/Atomic Habits" >}} "Atomic Habits")
+- [Pastoral Song]({{< ref "book/Pastoral Song" >}} "Pastoral Song")
+- [A Sand County Almanac]({{< ref "book/A Sand County Almanac" >}} "A Sand County Almanac")
+- [A Conservationist Manifesto]({{< ref "book/A Conservationist Manifesto" >}} "A Conservationist Manifesto")
+- [The Heartbeat of Trees]({{< ref "book/The Heartbeat of Trees" >}} "The Heartbeat of Trees")
 
 
 
