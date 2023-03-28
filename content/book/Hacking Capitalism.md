@@ -6,13 +6,14 @@ tag: ["books"]
 lastmod: 
 ---
 # Book Details
-date published: ""
-date started: ""
-date finished: ""
-length: ""
-genre: ""
-isbn-13: ""
-amzn affiliate link: ""
+author: @krisnova
+date published: 2022-07-30
+date started: 
+date finished: 
+length: 
+genre: 
+isbn-13: 978-1684895656
+amzn affiliate link: 
 
 # Table of Contents
 

@@ -6,13 +6,14 @@ tag: ["books"]
 lastmod: 
 ---
 # Book Details
-date published: ""
-date started: ""
-date finished: ""
-length: ""
-genre: ""
-isbn-13: ""
-amzn affiliate link: ""
+author: Aldo Leopold
+date published: 1949
+date started: 
+date finished: 
+length: 
+genre: nature writing
+isbn-13: 978-0197500262
+amzn affiliate link: 
 
 # Table of Contents
 
