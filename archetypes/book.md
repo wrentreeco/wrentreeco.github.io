@@ -1,17 +1,18 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+date posted:
+author: "wrentreeco"
+tag: ["books"]
+lastmod: 
+---
+# Book Details
 date published: ""
 date started: ""
 date finished: ""
-date posted: {{ .Date }}
-author: ""
 length: ""
 genre: ""
 isbn-13: ""
 amzn affiliate link: ""
-tag: ["books"]
----
-
 
 # Table of Contents
 

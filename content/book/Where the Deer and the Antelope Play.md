@@ -1,17 +1,19 @@
 ---
-title: "Where the Deer and the Antelope Play"
-date published: "2021-10-12"
-date started: "2022-12-22"
-date finished: ""
+title: Where the Deer and the Antelope Play
 date posted: 2023-02-21T21:18:58-06:00
-author: "Nick Offerman"
+author: wrentreeco
+tag:
+  - books
+lastmod: 2023-03-28T16:23:06.224Z
+---
+# Book Details
+date published: 2021-10-12
+date started: 2022-12-22
+date finished: ""
 length: "325"
-genre: "non-fiction"
+genre: non-fiction
 isbn-13: "9781101984697"
 amzn affiliate link: ""
-tag: ["books"]
----
-
 
 # Table of Contents
  - 40: stopping and enjoying silence, nature, unplugging, immersed in surroundings
@@ -36,6 +38,17 @@ tag: ["books"]
  - 172: QUOTE: "don't wish pain on others"
  - 172: empathy and compassion for all
  - 175: admitting wrongs is healthy
+ - 184: QUOTE: "Civilization has so cluttered this elemental man-earth relationship with gadgets and middlemen, that awareness of it is growing dim. We fancy that industry supports us, forgetting what supports industry" -- Aldo Leopold
+ - 184: lose agency to corporations
+ - 186: lack of variety bring disease
+ - 186: quality > quantity
+ - 187: land stewardship, agribusiness
+ - 188: QUOTE: RE: industrial agriculture
+ - 188: they work so hard to explait land for profit while pumping money and energy in to optimizations like weed control, fertilizers, antibiotics, etc but a healthy and biodiverse environment doesn't need this. they are fighting themselves...
+ - 201: profits in small economy vs Great Economy
+ - 202: species suited to thrive in given environment
+ - 203: middle-man co-op guarentee fair price to farmers
+ - 205: QUOTES: RE: ecological conscience, "going somewhere/doing something"
 
 # Thoughts
 
