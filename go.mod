@@ -2,4 +2,4 @@ module wrentreeco.github.io
 
 go 1.20
 
-require github.com/wrentreeco/fendy v0.0.0-20230331165517-de58f27028e8 // indirect
+require github.com/wrentreeco/fendy v0.0.0-20230331170907-e34336c5c0b0 // indirect
