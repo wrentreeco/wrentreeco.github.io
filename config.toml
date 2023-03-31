@@ -1,7 +1,7 @@
 baseURL = 'https://wrentreeco.github.io/'
 languageCode = 'en-us'
 title = 'WrenTreeCo'
-baseurl = "/"
+baseurl = "/home"
 paginate = 5
 
 customCSS = ["style.css"]
@@ -35,20 +35,28 @@ customCSS = ["style.css"]
     keywords = ""
     copyright = ""
     menuMore = "Show more"
-    writtenBy = "Written by"
+    writtenBy = "written by"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     minuteReadingTime = "min read"
+    bookAuthor = "Author: "
+    bookPublished = "Date Published: "
+    bookStarted = "Date Started: "
+    bookFinished = "Date Finished: "
+    bookLengthe = "Length: "
+    bookGenre = "Genre: "
+    bookISBN13 = "ISBN-13: "
+    bookAmznLink = "Amazon Affiliate Link: "
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
     # leave empty to disable, enter display text to enable
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "wrentreeco"
-      logoHomeLink = "/"
+      logoText = "wrentreeco/"
+      logoHomeLink = "/home"
     # or
     #
     # path = "/img/your-example-logo.svg"
