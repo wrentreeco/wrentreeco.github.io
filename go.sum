@@ -34,3 +34,5 @@ github.com/wrentreeco/fendy v0.0.0-20230331184521-e257493c288c h1:akvsWXeF3ZygqJ
 github.com/wrentreeco/fendy v0.0.0-20230331184521-e257493c288c/go.mod h1:zY1dtcfNz0mAhzKLwh6SQgfy6lLGcULUxbDMjNjrvPg=
 github.com/wrentreeco/fendy v0.0.0-20230331185310-b6439bdf3ddf h1:uBk53ilD+gFr0ngUYravpuGvfW9ndu9bMx0DbYXqIpE=
 github.com/wrentreeco/fendy v0.0.0-20230331185310-b6439bdf3ddf/go.mod h1:zY1dtcfNz0mAhzKLwh6SQgfy6lLGcULUxbDMjNjrvPg=
+github.com/wrentreeco/fendy v0.0.0-20230331191816-e40d96ca211f h1:G66UXaaIJjm3eDMT8Day8nTFBQ0N0gZoVgSyUIxhc04=
+github.com/wrentreeco/fendy v0.0.0-20230331191816-e40d96ca211f/go.mod h1:zY1dtcfNz0mAhzKLwh6SQgfy6lLGcULUxbDMjNjrvPg=
