@@ -1,7 +1,8 @@
 ---
 title: "About"
 date: 2023-02-21T21:15:15-06:00
-author: 
+author: wrentreeco
+type: post
 ---
 # About Me
 Experienced IT professional with over 18 years of experience with MSPs and corporate IT, most recently with a cutting-edge AI company as well as a global medical device manufacturing company, designing, implementing, and managing IT environments. I got started with computers in the old days with green screen 5.25" floppy disk powered computers, dial up internet, and AOL. I have always had a passion for tinkering, computers, and breaking systems (computers, networks, physical security) and have spent a good chunk of my career and free time doing so. Bypassing physical security systems is what I find most fascinating and exhilarating in this space.
