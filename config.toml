@@ -9,8 +9,8 @@ customCSS = ["style.css"]
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
-  contentTypeName = "books"
+  contentTypeName = "posts books"
+
 
   # OS theme is default when not provided, but you can force it to "light" or "dark"
   defaultTheme = "dark"
