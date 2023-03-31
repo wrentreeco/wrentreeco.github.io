@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date posted:
-author: "wrentreeco"
+author: 
 tag: ["books"]
 lastmod: 
 ---

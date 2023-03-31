@@ -1,8 +1,9 @@
 ---
 title: "Books"
 date: 2023-02-21T21:46:37-06:00
+author: wrentreeco
 ---
-
+# Books
 i'm  an avid reader when i can find the time and focus amongst all my other projects. i enjoy all genres for the most part but tend to focus more heavily on sci-fi, fantasy, and academic/personal development books. as a neurodivergent, i do struggle with maintaining focus while reading as well as long term retention of those impactful, awe-inspiring ideas and insights, making it harder dedicate time to reading even when i want to. to cope with this, i use a method of note taking that encourages active reading, reflection and introspection, and long term retention. i don't do this for every book and some books lend themselves to a much higher volume of notes and thoughts than others but my goal with every book is to be present, active, and engage with the text in a meaningful way. here you will my reading list along with any notes i have taken.
 <br><br>
 > **Note**
