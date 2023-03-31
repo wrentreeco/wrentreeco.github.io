@@ -46,7 +46,7 @@ thats it. i know it adds overhead to reading but i'm busy and have limited time 
 > the *Read* section only contains books i have read using the above active reading method
 
 ### Reading
-- [Where the Deer and the Antelope Play]({{< ref "book/where the deer and the antelope play" >}} "Where the Deer adn the Antelope Play")
+- [Where the Deer and the Antelope Play]({{< ref "books/where the deer and the antelope play" >}} "Where the Deer adn the Antelope Play")
 
 
 ### To Read
