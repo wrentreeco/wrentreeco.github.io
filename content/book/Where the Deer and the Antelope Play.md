@@ -10,8 +10,6 @@ bookLength: 325
 bookGenre: non-fiction
 bookISBN13: 9781101984697
 bookAmznLink: 
-tag:
-  - books
 lastmod: 2023-03-28T16:23:06.224Z
 ---
 

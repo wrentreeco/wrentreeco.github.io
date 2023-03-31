@@ -2,7 +2,6 @@
 title: "Hacking Capitalism"
 date posted:
 author: wrentreeco
-tag: ["books"]
 bookAuthor: @krisnova
 bookPublished: 2022-07-30
 bookStarted: 
