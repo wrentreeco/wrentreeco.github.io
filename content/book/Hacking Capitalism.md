@@ -1,6 +1,6 @@
 ---
 title: "Hacking Capitalism"
-type: books
+type: book
 date posted:
 author: wrentreeco
 bookAuthor: Kris Nova

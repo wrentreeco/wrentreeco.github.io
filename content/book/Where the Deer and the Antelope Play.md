@@ -1,6 +1,6 @@
 ---
 title: Where the Deer and the Antelope Play
-type: books
+type: book
 date posted: 2023-02-21T21:18:58-06:00
 author: wrentreeco
 bookAuthor: Nick Offerman
