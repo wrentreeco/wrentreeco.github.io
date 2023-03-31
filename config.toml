@@ -78,7 +78,7 @@ customCSS = ["style.css"]
       [[languages.en.menu.main]]
         identifier = "books"
         name = "Books"
-        url = "/books"
+        url = "/books.md"
         weight = 3
       [[languages.en.menu.main]]
         identifier = "github"
