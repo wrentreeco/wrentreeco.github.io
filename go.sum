@@ -1,2 +1,4 @@
 github.com/wrentreeco/fendy v0.0.0-20230224175051-3e71b0fff2f4 h1:ZYWE5elSZzPH8pmM7A4CwG+PUnEx4SNmcEh5r1x70o0=
 github.com/wrentreeco/fendy v0.0.0-20230224175051-3e71b0fff2f4/go.mod h1:zY1dtcfNz0mAhzKLwh6SQgfy6lLGcULUxbDMjNjrvPg=
+github.com/wrentreeco/fendy v0.0.0-20230331161107-e617380f08bd h1:0JVT4JGwHmocwyzjEQ0rFaSQFgD0TX3HwVVtcDiIHXQ=
+github.com/wrentreeco/fendy v0.0.0-20230331161107-e617380f08bd/go.mod h1:zY1dtcfNz0mAhzKLwh6SQgfy6lLGcULUxbDMjNjrvPg=
