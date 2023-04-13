@@ -1,4 +1,4 @@
-baseURL = 'https://wrentreeco.github.io/'
+baseURL = 'https://wrentreeco.github.io/home'
 languageCode = 'en-us'
 title = 'WrenTreeCo'
 baseurl = "/home"
