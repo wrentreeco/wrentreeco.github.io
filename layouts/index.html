@@ -1,0 +1,4 @@
+{{ with .GetPage `home.md` }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+{{ end }}
