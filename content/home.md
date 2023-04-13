@@ -19,8 +19,6 @@ here i'll tell you all about what others have said about me if they had said any
 
 <br><br>
 # Connect With Me
-<span>&#9993;</span> [ford@noneya.co](mailto:ford@noneya.co)
-<br>
 <span>&#128024;</span> [Mastodon](https://hachyderm.io/@wrentreeco "Mastodon {rel='me'}")
 <br>
 <span>&#127793;</span> [Solarpunk Matrix Instance](https://matrix.to/#/#solarpunks:solarpunk.cloud "Solarpunk Matrix Instance")
